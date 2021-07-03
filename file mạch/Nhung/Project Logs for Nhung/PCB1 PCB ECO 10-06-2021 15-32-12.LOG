@@ -1,0 +1,5 @@
+Added Component: Designator=U?(ESP12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component U? ESP 12
